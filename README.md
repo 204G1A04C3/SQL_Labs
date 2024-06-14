@@ -19,8 +19,8 @@ Here’s a brief overview of labs:
    - Using WHERE clauses for filtering data.
 
 4. *Advanced SQL Queries*:
-   - Joining tables using INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN.
-   - Set operations like UNION, INTERSECT, and EXCEPT.
+   - Joining tables using INNER JOIN, LEFT JOIN, RIGHT JOIN, and LEFT OUTER JOIN.
+   - SELF JOIN,CROSS JOIN,NATURAL JOIN
 
 
 
